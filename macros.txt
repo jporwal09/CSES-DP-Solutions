@@ -16,3 +16,5 @@ typedef long long ll ;
 
 #define vi  vector<int>
 #define endl "\n"
+const int inf = 1e9;
+const int mod= 1e9+7;
