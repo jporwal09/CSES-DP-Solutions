@@ -18,3 +18,7 @@ typedef long long ll ;
 #define endl "\n"
 const int inf = 1e9;
 const int mod= 1e9+7;
+int main(){
+/* Jayesh Porwal*/
+return 0;
+}
