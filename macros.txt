@@ -20,5 +20,7 @@ const int inf = 1e9;
 const int mod= 1e9+7;
 int main(){
 /* Jayesh Porwal*/
+ios::sync_with_stdio(0);
+cin.tie(0);
 return 0;
 }
